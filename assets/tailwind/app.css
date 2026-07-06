@@ -31,9 +31,12 @@
     box-sizing: border-box;
   }
 
+  /* body {
+    margin: 0;
+    font-family: Roboto, sans-serif; */
   body {
     margin: 0;
-    font-family: Roboto, sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 1rem;
     font-weight: 300;
     line-height: 1.5;
@@ -41,6 +44,15 @@
     @apply text-text bg-background;
   }
 
+  /* h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: inherit; */
   h1,
   h2,
   h3,
@@ -49,7 +61,7 @@
   h6 {
     margin-top: 0;
     margin-bottom: 0.5rem;
-    font-family: inherit;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 300;
     line-height: 1.2;
     color: inherit;
@@ -759,9 +771,9 @@
   }
 
   .g-0 > .col,
-  .g-0 > [class*='col-'],
+  .g-0 > [class*="col-"],
   .no-gutters > .col,
-  .no-gutters > [class*='col-'] {
+  .no-gutters > [class*="col-"] {
     padding-right: 0;
     padding-left: 0;
   }

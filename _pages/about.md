@@ -31,8 +31,7 @@ Our research spans Edge AI, edge hardware, IoT and wearable sensing, and circuit
 
 We collaborate closely with universities across US and Europe, and welcome enquiries from prospective students and collaborators interested in edge computing, hardware-software co-design, and applied AI for biomedical sensing.
 
-
-**Contact us:** 
-Room 241, Engineering Building, 
-University College Dublin, 
+**Contact us:**
+Room 241, Engineering Building,
+University College Dublin,
 Belfield, Dublin 4, Ireland

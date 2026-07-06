@@ -34,7 +34,7 @@
   /* body {
     margin: 0;
     font-family: Roboto, sans-serif; */
-    body {
+  body {
     margin: 0;
     font-family: "Inter", sans-serif;
     font-size: 1rem;
@@ -771,9 +771,9 @@
   }
 
   .g-0 > .col,
-  .g-0 > [class*='col-'],
+  .g-0 > [class*="col-"],
   .no-gutters > .col,
-  .no-gutters > [class*='col-'] {
+  .no-gutters > [class*="col-"] {
     padding-right: 0;
     padding-left: 0;
   }
